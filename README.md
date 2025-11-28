@@ -11,3 +11,4 @@ n8n 专用 Node
 落地页：
 
 /n8n-image-hosting-node
+coze，dify，也可以借助这个来完善
